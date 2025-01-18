@@ -1,0 +1,1 @@
+Python-based voting system! This program allows voters to cast their votes securely while ensuring fairness by tracking voter IDs. It’s a great example of how Python can be used to automate processes and solve real-world problems efficiently.
